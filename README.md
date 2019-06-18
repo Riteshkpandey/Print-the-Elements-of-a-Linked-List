@@ -1,0 +1,2 @@
+# Print-the-Elements-of-a-Linked-List
+Input Format The first line of input contains , the number of elements in the linked list.  The next  lines contain one element each, which are the elements of the linked list. Note: Do not read any input from stdin/console. Complete the printLinkedList function in the editor below. Constraints , where  is the  element of the linked list. Output Format Print the integer data for each element of the linked list to stdout/console (e.g.: using printf, cout, etc.). There should be one element per line.
